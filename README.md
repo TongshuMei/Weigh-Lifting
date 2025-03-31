@@ -1,1 +1,1 @@
-# Weigh-Lifting
+# Weight-Lifting
